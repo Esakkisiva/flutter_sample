@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88191613962",
+    "project_id": "esakki-siva-unique01",
+    "storage_bucket": "esakki-siva-unique01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88191613962:android:bcaefb0aa376aa02e733f3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu2tH5G3vTDrmTPMeAaFbQp_by5XsYnd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
