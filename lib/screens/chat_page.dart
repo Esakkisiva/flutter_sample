@@ -21,7 +21,7 @@ class _ChatPageState extends State<ChatPage> {
       name: 'world ',
       lastMessage: 'Hey! How are you doing?',
       time: '2:30 PM',
-      avatar: '🌎cle',
+      avatar: '🌎',
       isOnline: true,
       unreadCount: 3,
       connectionPercentage: 85,
